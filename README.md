@@ -88,7 +88,7 @@ O número **7** orienta a identidade: um símbolo que pode lembrar enquadramento
 ## 🌃 Cidade de contribuições
 
 <div align="center">
-  <img src="./assets/contribution-city.svg" width="100%" alt="Cidade animada baseada nas 56 contribuições exibidas no GitHub em 19 de novembro de 2026" />
+  <img src="https://raw.githubusercontent.com/Goliver7/Goliver7/b10fb4ce4358820f966b31df023126f65347c7ed/assets/contribution-city.svg" width="100%" alt="Cidade animada baseada nas 56 contribuições exibidas no GitHub em 19 de novembro de 2026" />
 </div>
 
 <sub>Registro visual de 19/11/2026 · 56 contribuições no último ano. A imagem representa os dados desse dia.</sub>
