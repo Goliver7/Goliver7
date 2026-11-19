@@ -1,64 +1,74 @@
 <div align="center">
 
-<img src="./assets/profile-hero-apple.svg" alt="Guilherme Oliveira — software, SAP e experiências digitais" width="100%" />
+<img src="./assets/hero-dark.svg" width="100%" alt="Guilherme Oliveira — laboratório digital com interface escura inspirada em uma janela de aplicativo" />
 
 <br />
 
-<a href="#-projetos-em-destaque"><img alt="Projetos" src="https://img.shields.io/badge/PROJETOS-007AFF?style=for-the-badge" /></a>
-<a href="#-tecnologias-e-aprendizado"><img alt="Tecnologias" src="https://img.shields.io/badge/TECNOLOGIAS-0F766E?style=for-the-badge" /></a>
-<a href="#-sobre-mim"><img alt="Sobre mim" src="https://img.shields.io/badge/SOBRE_MIM-334155?style=for-the-badge" /></a>
-
-### 👋 Olá, eu sou o Guilherme
+<a href="#-dokkaebi"><img alt="DOKKAEBI" src="https://img.shields.io/badge/DOKKAEBI-2563EB?style=for-the-badge" /></a>
+<a href="#-seven7motion"><img alt="SEVEN7MOTION" src="https://img.shields.io/badge/SEVEN7MOTION-7C3AED?style=for-the-badge" /></a>
+<a href="#-plataforma-modular"><img alt="PLATAFORMA" src="https://img.shields.io/badge/PLATAFORMA-15803D?style=for-the-badge" /></a>
 
 **Engenharia de Software · suporte SAP · produtos digitais**
 
-Gosto de criar sistemas que unem uma interface cuidadosa a uma estrutura confiável. A clareza e a atenção aos detalhes das interfaces Apple são referências para os produtos que imagino e desenvolvo.
+Construo projetos que aproximam boas interfaces, infraestrutura e problemas reais. Gosto do cuidado das interfaces Apple com hierarquia, respiro e detalhes — e exploro essa mesma atenção em experiências de tema escuro.
 
-**Meus melhores amigos na criação:**
+**Meus melhores amigos:** <img src="https://claude.ai/images/clawd/core/Clawd-Waving.gif" width="64" alt="Clawd, personagem do Claude" /> <img src="./assets/chatgpt-symbol.svg" width="32" alt="Símbolo do ChatGPT" />
 
-<table><tr><td align="center" width="50%"><img src="https://claude.ai/images/clawd/core/Clawd-Waving.gif" width="220" alt="Clawd, personagem animado do Claude, acenando" /><br /><strong>Claude</strong><br /><sub>Clawd, o personagem em pixels</sub></td><td align="center" width="50%"><img src="./assets/chatgpt-symbol.svg" width="120" alt="Símbolo do ChatGPT" /><br /><strong>ChatGPT</strong><br /><sub>Seu símbolo, sem mascote</sub></td></tr></table>
-
-<sub>Ferramentas que uso para explorar ideias, pesquisar e construir. Clawd pertence à Anthropic; o símbolo do ChatGPT pertence à OpenAI. Este é um perfil pessoal, sem afiliação com as marcas.</sub>
+<sub>Clawd e ChatGPT são marcas de seus proprietários. Uso as ferramentas em projetos pessoais; não tenho afiliação com Anthropic ou OpenAI.</sub>
 
 </div>
 
----
+<br />
 
-### 🧩 Projetos em destaque
+## 🛡️ DOKKAEBI
 
-> Estes são produtos e iniciativas em evolução. Os detalhes abaixo descrevem a visão de cada projeto e separam o que já existe do que está planejado. Parte do código ainda não está pública.
+<img src="./assets/project-dokkaebi.svg" width="100%" alt="Diagrama visual animado: câmeras e sensores conectados ao núcleo e ao painel de TV" />
 
-#### 🛡️ DOKKAEBI — segurança residencial inteligente
+<br />
 
-Um ecossistema para conectar **monitoramento, automação e resposta a eventos** em uma experiência única. A proposta é transformar câmeras, sensores e rotinas da casa em informações úteis: entender o que aconteceu, quando aconteceu e qual ação faz sentido naquele contexto. O projeto se divide em três frentes:
+**Uma casa que percebe, organiza e responde.** O DOKKAEBI é meu ecossistema de segurança residencial inteligente. A proposta é reunir câmeras, sensores, automações e histórico de eventos em uma experiência compreensível: o que aconteceu, onde, quando e qual resposta é apropriada.
 
-- **VALKYRIE · infraestrutura:** rede, servidor, câmeras IP, instalação física, armazenamento e integração dos dispositivos.
-- **DOKKAEBI CORE · plataforma:** painéis, APIs, eventos, usuários, permissões, automações e futuras integrações de IA. O painel de acompanhamento e o modo TV fazem parte da experiência visual em desenvolvimento.
-- **NOEL HO HOME · implantação piloto:** a casa da minha família como ambiente para testar os fluxos e validar a operação real antes de pensar em uma solução comercial.
+| Frente | Papel no ecossistema |
+| :-- | :-- |
+| **VALKYRIE** | Servidor, rede, câmeras IP, instalação, armazenamento e integração dos equipamentos. |
+| **DOKKAEBI CORE** | Plataforma de software: painéis, APIs, eventos, usuários, permissões, regras e futuras integrações de IA. |
+| **NOEL HO HOME** | Implantação piloto na residência da minha família, para testar fluxos e validar a operação real. |
 
-A visão inclui um painel com câmeras e sensores, histórico de eventos e alertas pelo Telegram. Quando a ausência dos moradores for confirmada, o **IRON HOME** deverá ampliar as proteções e avisar o administrador sobre movimentos. O **HELP MODE** é uma proposta para tratar possíveis emergências com etapas de confirmação. Também estudo a alternância de painéis no modo TV e integrações com o ecossistema doméstico.
+Na experiência planejada, o painel reúne câmeras, sensores e alertas. O **IRON HOME** deverá reforçar a proteção quando a ausência dos moradores for confirmada; o **HELP MODE** propõe etapas de confirmação para possíveis emergências. O modo TV foi pensado para alternar entre o acompanhamento do projeto e a visão operacional da casa. Alertas pelo Telegram e integração com o ambiente doméstico fazem parte do caminho.
 
-**Estado atual:** conceito e interface do painel em desenvolvimento; infraestrutura, câmeras adicionais, sensores e automações ainda estão em validação ou planejamento. As seis posições de câmera são planejadas, não uma instalação concluída. A expansão comercial é uma possibilidade futura.
+> **Agora:** a interface e a arquitetura estão em desenvolvimento. Câmeras adicionais, sensores, automações e a implantação completa ainda exigem validação. A possibilidade de transformar o piloto em produto comercial vem depois dos testes.
 
-#### 🎬 SEVEN7MOTION — criação digital e software
+<br />
 
-Uma iniciativa que aproxima **comunicação visual e desenvolvimento de produtos digitais**. Na frente de conteúdo, o trabalho envolve captação, direção, edição de vídeos curtos, cobertura de eventos, peças visuais e presença em redes sociais. Na frente de software, a visão vai de páginas de apresentação e sites a aplicações, automações e produtos próprios.
+## 🎬 SEVEN7MOTION
 
-Quero que a experiência de quem vê um vídeo ou usa uma aplicação tenha o mesmo cuidado: mensagem clara, ritmo, hierarquia visual e utilidade. A identidade da SEVEN7MOTION gira em torno de movimento, com o **7** como símbolo visual. O portfólio e a estrutura de serviços estão em construção; aplicações e produtos ainda não devem ser entendidos como lançados.
+<img src="./assets/project-seven.svg" width="100%" alt="Identidade visual animada da SEVEN7MOTION, com movimento, vídeo e interface" />
 
-#### 🧭 Plataforma empresarial modular — descoberta de produto
+<br />
 
-Estudo com outros desenvolvedores uma plataforma que possa reunir **relacionamento com clientes, vendas, estoque, compras, financeiro e atendimento** em módulos conectados. A hipótese é reduzir a fragmentação de informações e dar às equipes uma visão simples dos processos, sem obrigar uma empresa a adotar tudo de uma vez.
+**Uma ideia pode virar narrativa, interface ou produto.** A SEVEN7MOTION é minha iniciativa para unir comunicação digital e desenvolvimento de software. Na criação de conteúdo, trabalho com captação, direção, edição de vídeos curtos, cobertura de eventos, peças visuais e presença em redes sociais. Na frente de tecnologia, exploro páginas, sites, automações, aplicações e, no futuro, produtos próprios.
 
-A etapa atual é definir o cliente ideal, entender suas dores reais, delimitar um primeiro módulo útil e validar se o produto resolve um problema que merece investimento. **É uma ideia em validação**, ainda sem MVP ou funcionalidades publicadas.
+O número **7** orienta a identidade: um símbolo que pode lembrar enquadramento, lente e movimento. Quero que cada entrega tenha propósito, ritmo, clareza e uma experiência coerente — da primeira imagem de um vídeo à última tela de uma aplicação.
 
-#### 🧪 Laboratório público
+> **Agora:** serviços criativos e estrutura do portfólio estão em desenvolvimento. As aplicações e produtos de software são uma direção de expansão, não lançamentos já concluídos.
 
-Exercícios e experimentos que documentam a evolução do meu código: [front-end](https://github.com/Goliver7/Front-end) e [estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados).
+<br />
 
----
+## 🧭 Plataforma modular
 
-### ⚡ Tecnologias e aprendizado
+<img src="./assets/project-platform.svg" width="100%" alt="Módulos empresariais conectados: clientes, vendas, estoque e finanças" />
+
+<br />
+
+**Processos conectados sem transformar tudo em uma única tela.** Com outros desenvolvedores, investigo uma plataforma empresarial modular para empresas que precisam relacionar clientes, atendimento, vendas, estoque, compras e financeiro. A hipótese é permitir a adoção por etapas, começando pelo fluxo que resolve uma dor concreta.
+
+Antes de construir módulos, estamos definindo o cliente ideal, observando as rotinas que hoje se perdem entre planilhas e sistemas e delimitando um primeiro problema para validar. A experiência pretendida dá prioridade à leitura rápida, à continuidade entre tarefas e a permissões claras para cada papel.
+
+> **Agora:** descoberta de produto. Público, recorte do MVP e proposta comercial ainda estão em validação; não há uma plataforma lançada.
+
+<br />
+
+## ⚡ Tecnologias e aprendizado
 
 **Uso e pratico**
 
@@ -70,20 +80,20 @@ Exercícios e experimentos que documentam a evolução do meu código: [front-en
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Minha trilha atual**
+**No meu radar**
 
 `ABAP (início)` → `SQL e APIs` → `UX/UI e acessibilidade` → `redes e servidores` → `segurança`
 
 <details>
-<summary>Mais sobre a minha atuação</summary>
+<summary>Minha atuação e estudos</summary>
 <br />
-Estudo Engenharia de Software e tenho experiência com suporte SAP, acessos, autorizações, análise de problemas e documentação. Em projetos pessoais, exploro desenvolvimento, redes, câmeras IP e automação. Quero aprofundar a união entre produto, experiência de uso e infraestrutura.
+Estudo Engenharia de Software e atuo com suporte SAP, acessos, autorizações, análise de problemas e documentação. Em projetos pessoais, experimento desenvolvimento, redes, câmeras IP e automação. Meu objetivo é aproximar produto, experiência de uso e infraestrutura.
 </details>
 
----
+<br />
 
-### 💬 Sobre mim
+## 🧪 Código e experimentos
 
-Sou curioso sobre como sistemas funcionam por dentro e como as pessoas os percebem por fora. Por isso me interessam tanto uma boa interface quanto a segurança e a estrutura que sustentam a experiência. Este perfil é um registro dos projetos que estou construindo e do que aprendo no caminho.
+Alguns estudos já estão públicos: [front-end](https://github.com/Goliver7/Front-end) · [estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados). Os projetos acima terão repositórios e demonstrações conforme amadurecerem.
 
-<div align="center"><sub>CONSTRUIR · APRENDER · REFINAR</sub></div>
+<div align="center"><br /><sub>CONSTRUIR · APRENDER · REFINAR</sub></div>
