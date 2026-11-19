@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Guilherme Oliveira, engenharia de software, sistemas e experiências digitais">
+<title>Guilherme Oliveira — laboratório digital</title>
+<defs>
+ <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#e7f4ff"/><stop offset=".5" stop-color="#eff6ff"/><stop offset="1" stop-color="#c8e9eb"/></linearGradient>
+ <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".91"/><stop offset="1" stop-color="#fff" stop-opacity=".56"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#3b82f6" stop-opacity=".6"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#sky)"/>
+<circle cx="930" cy="152" r="170" fill="url(#orb)"><animate attributeName="cx" values="930;957;930" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="90" cy="310" r="145" fill="#a5b4fc" opacity=".15"/>
+<rect x="82" y="43" width="1036" height="280" rx="28" fill="#315474" opacity=".14" filter="url(#shadow)"/>
+<rect x="64" y="28" width="1072" height="286" rx="26" fill="url(#glass)" stroke="#fff" stroke-width="2"/>
+<path d="M64 81H1136" stroke="#9cb5ca" stroke-opacity=".45"/>
+<circle cx="98" cy="55" r="8" fill="#ff605c"/><circle cx="124" cy="55" r="8" fill="#ffbd44"/><circle cx="150" cy="55" r="8" fill="#00ca4e"/>
+<text x="600" y="62" fill="#61758a" font-family="Arial,Helvetica,sans-serif" font-size="16" text-anchor="middle">goliver7 / laboratório digital</text>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="112" y="133" fill="#317199" font-size="17" letter-spacing="4">OLÁ, EU SOU O</text>
+ <text x="108" y="211" fill="#142b45" font-size="59" font-weight="700">Guilherme Oliveira</text>
+ <text x="112" y="254" fill="#47647d" font-size="21">Software · SAP · experiências digitais</text>
+</g>
+<rect x="865" y="113" width="205" height="136" rx="24" fill="#fff" opacity=".72" stroke="#fff"/>
+<circle cx="967" cy="180" r="47" fill="none" stroke="#3b82f6" stroke-opacity=".18" stroke-width="2"/>
+<path d="M938 181l20 20 39-47" fill="none" stroke="#2585a7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1030" cy="129" r="4" fill="#34d399"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
