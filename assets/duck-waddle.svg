@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Patinho amarelo animado">
+  <title>Patinho caminhando</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 1;0 -2;0 1" dur="1.1s" repeatCount="indefinite"/>
+      <path d="M14 39c-4 0-8-3-9-7 6 2 10 1 13-2 2 7 8 10 17 10" fill="#F2AD38" stroke="#B86A22" stroke-width="2"/>
+      <path d="M18 28c1-7 7-12 15-12 2-8 8-13 16-12 9 1 13 8 11 16l-1 3c-1 2-3 3-6 4-1 11-8 20-20 21-10 1-20-5-20-14 0-3 2-5 5-6Z" fill="#FFD56A" stroke="#B86A22" stroke-width="2.3"/>
+      <path d="M24 34c7 4 14 3 19-2-2 8-8 12-16 12-4-1-7-4-8-7" fill="#F5B641" stroke="#D89429" stroke-width="1.5"/>
+      <circle cx="50" cy="16" r="2.4" fill="#212936"/>
+      <circle cx="50.8" cy="15.2" r=".7" fill="#FFF"/>
+      <path d="M58 23c4 0 6 1 6 3 0 3-4 5-9 5l-3-4" fill="#F69B4A" stroke="#B86A22" stroke-width="2"/>
+    </g>
+    <path d="M26 47v8m-4 0h8" stroke="#D98135" stroke-width="2.5">
+      <animateTransform attributeName="transform" type="rotate" values="14 26 47;-14 26 47;14 26 47" dur="1.1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M39 47v8m-4 0h8" stroke="#D98135" stroke-width="2.5">
+      <animateTransform attributeName="transform" type="rotate" values="-14 39 47;14 39 47;-14 39 47" dur="1.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
