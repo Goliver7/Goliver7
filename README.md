@@ -6,7 +6,6 @@
 
 <a href="#-dokkaebi"><img alt="DOKKAEBI" src="https://img.shields.io/badge/DOKKAEBI-2563EB?style=for-the-badge" /></a>
 <a href="#-seven7motion"><img alt="SEVEN7MOTION" src="https://img.shields.io/badge/SEVEN7MOTION-7C3AED?style=for-the-badge" /></a>
-<a href="#-plataforma-modular"><img alt="PLATAFORMA" src="https://img.shields.io/badge/PLATAFORMA-15803D?style=for-the-badge" /></a>
 
 **Engenharia de Software · suporte SAP · produtos digitais**
 
@@ -54,20 +53,6 @@ O número **7** orienta a identidade: um símbolo que pode lembrar enquadramento
 
 <br />
 
-## 🧭 Plataforma modular
-
-<img src="./assets/project-platform.svg" width="100%" alt="Módulos empresariais conectados: clientes, vendas, estoque e finanças" />
-
-<br />
-
-**Processos conectados sem transformar tudo em uma única tela.** Com outros desenvolvedores, investigo uma plataforma empresarial modular para empresas que precisam relacionar clientes, atendimento, vendas, estoque, compras e financeiro. A hipótese é permitir a adoção por etapas, começando pelo fluxo que resolve uma dor concreta.
-
-Antes de construir módulos, estamos definindo o cliente ideal, observando as rotinas que hoje se perdem entre planilhas e sistemas e delimitando um primeiro problema para validar. A experiência pretendida dá prioridade à leitura rápida, à continuidade entre tarefas e a permissões claras para cada papel.
-
-> **Agora:** descoberta de produto. Público, recorte do MVP e proposta comercial ainda estão em validação; não há uma plataforma lançada.
-
-<br />
-
 ## ⚡ Tecnologias e aprendizado
 
 **Uso e pratico**
@@ -94,6 +79,6 @@ Estudo Engenharia de Software e atuo com suporte SAP, acessos, autorizações, a
 
 ## 🧪 Código e experimentos
 
-Alguns estudos já estão públicos: [front-end](https://github.com/Goliver7/Front-end) · [estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados). Os projetos acima terão repositórios e demonstrações conforme amadurecerem.
+Alguns estudos já estão públicos: [front-end](https://github.com/Goliver7/Front-end) · [estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados). Também desenvolvo projetos com amigos; eles estão em andamento e serão apresentados quando fizer sentido. Os projetos acima terão repositórios e demonstrações conforme amadurecerem.
 
 <div align="center"><br /><sub>CONSTRUIR · APRENDER · REFINAR</sub></div>
