@@ -1,37 +1,64 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg?v=2" alt="Guilherme Oliveira — Software Engineering, SAP e UX/UI" width="100%" />
+<img src="./assets/profile-hero-apple.svg" alt="Guilherme Oliveira — software, SAP e experiências digitais" width="100%" />
 
 <br />
 
-<a href="#-o-que-estou-construindo"><img alt="Projetos" src="https://img.shields.io/badge/PROJETOS-0e7490?style=for-the-badge" /></a>
-<a href="#-stack--interesses"><img alt="Stack" src="https://img.shields.io/badge/STACK-1d4ed8?style=for-the-badge" /></a>
-<a href="#-meus-parceiros-de-criação"><img alt="IA" src="https://img.shields.io/badge/IA-6d28d9?style=for-the-badge" /></a>
-
-</div>
+<a href="#-projetos-em-destaque"><img alt="Projetos" src="https://img.shields.io/badge/PROJETOS-007AFF?style=for-the-badge" /></a>
+<a href="#-tecnologias-e-aprendizado"><img alt="Tecnologias" src="https://img.shields.io/badge/TECNOLOGIAS-0F766E?style=for-the-badge" /></a>
+<a href="#-sobre-mim"><img alt="Sobre mim" src="https://img.shields.io/badge/SOBRE_MIM-334155?style=for-the-badge" /></a>
 
 ### 👋 Olá, eu sou o Guilherme
 
-Estudo **Engenharia de Software** e atuo com **suporte SAP**. Gosto de transformar problemas de negócio em sistemas claros, funcionais e agradáveis de usar. Estou explorando desenvolvimento, UX/UI, infraestrutura, redes e segurança.
+**Engenharia de Software · suporte SAP · produtos digitais**
 
-> **Meu norte:** software útil, interfaces cuidadosas e sistemas bem conectados.
+Gosto de criar sistemas que unem uma interface cuidadosa a uma estrutura confiável. A clareza e a atenção aos detalhes das interfaces Apple são referências para os produtos que imagino e desenvolvo.
 
----
+**Meus melhores amigos na criação:**
 
-### 🧩 O que estou construindo
+<table><tr><td align="center" width="50%"><img src="https://claude.ai/images/clawd/core/Clawd-Waving.gif" width="220" alt="Clawd, personagem animado do Claude, acenando" /><br /><strong>Claude</strong><br /><sub>Clawd, o personagem em pixels</sub></td><td align="center" width="50%"><img src="./assets/chatgpt-symbol.svg" width="120" alt="Símbolo do ChatGPT" /><br /><strong>ChatGPT</strong><br /><sub>Seu símbolo, sem mascote</sub></td></tr></table>
 
-**🛡️ DOKKAEBI / NOEL HO HOME** `em desenvolvimento`  
-Ecossistema pessoal de automação e monitoramento residencial: painel, câmeras, sensores e protocolos de segurança. A implementação ainda não está pública.
+<sub>Ferramentas que uso para explorar ideias, pesquisar e construir. Clawd pertence à Anthropic; o símbolo do ChatGPT pertence à OpenAI. Este é um perfil pessoal, sem afiliação com as marcas.</sub>
 
-**🎬 SEVEN7MOTION** `em estruturação`  
-Minha iniciativa de criação digital e desenvolvimento de aplicações, de landing pages a produtos próprios.
-
-**🧪 Laboratório de código** `publicado`  
-[Front-end](https://github.com/Goliver7/Front-end) · [Estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados)
+</div>
 
 ---
 
-### ⚡ Stack & interesses
+### 🧩 Projetos em destaque
+
+> Estes são produtos e iniciativas em evolução. Os detalhes abaixo descrevem a visão de cada projeto e separam o que já existe do que está planejado. Parte do código ainda não está pública.
+
+#### 🛡️ DOKKAEBI — segurança residencial inteligente
+
+Um ecossistema para conectar **monitoramento, automação e resposta a eventos** em uma experiência única. A proposta é transformar câmeras, sensores e rotinas da casa em informações úteis: entender o que aconteceu, quando aconteceu e qual ação faz sentido naquele contexto. O projeto se divide em três frentes:
+
+- **VALKYRIE · infraestrutura:** rede, servidor, câmeras IP, instalação física, armazenamento e integração dos dispositivos.
+- **DOKKAEBI CORE · plataforma:** painéis, APIs, eventos, usuários, permissões, automações e futuras integrações de IA. O painel de acompanhamento e o modo TV fazem parte da experiência visual em desenvolvimento.
+- **NOEL HO HOME · implantação piloto:** a casa da minha família como ambiente para testar os fluxos e validar a operação real antes de pensar em uma solução comercial.
+
+A visão inclui um painel com câmeras e sensores, histórico de eventos e alertas pelo Telegram. Quando a ausência dos moradores for confirmada, o **IRON HOME** deverá ampliar as proteções e avisar o administrador sobre movimentos. O **HELP MODE** é uma proposta para tratar possíveis emergências com etapas de confirmação. Também estudo a alternância de painéis no modo TV e integrações com o ecossistema doméstico.
+
+**Estado atual:** conceito e interface do painel em desenvolvimento; infraestrutura, câmeras adicionais, sensores e automações ainda estão em validação ou planejamento. As seis posições de câmera são planejadas, não uma instalação concluída. A expansão comercial é uma possibilidade futura.
+
+#### 🎬 SEVEN7MOTION — criação digital e software
+
+Uma iniciativa que aproxima **comunicação visual e desenvolvimento de produtos digitais**. Na frente de conteúdo, o trabalho envolve captação, direção, edição de vídeos curtos, cobertura de eventos, peças visuais e presença em redes sociais. Na frente de software, a visão vai de páginas de apresentação e sites a aplicações, automações e produtos próprios.
+
+Quero que a experiência de quem vê um vídeo ou usa uma aplicação tenha o mesmo cuidado: mensagem clara, ritmo, hierarquia visual e utilidade. A identidade da SEVEN7MOTION gira em torno de movimento, com o **7** como símbolo visual. O portfólio e a estrutura de serviços estão em construção; aplicações e produtos ainda não devem ser entendidos como lançados.
+
+#### 🧭 Plataforma empresarial modular — descoberta de produto
+
+Estudo com outros desenvolvedores uma plataforma que possa reunir **relacionamento com clientes, vendas, estoque, compras, financeiro e atendimento** em módulos conectados. A hipótese é reduzir a fragmentação de informações e dar às equipes uma visão simples dos processos, sem obrigar uma empresa a adotar tudo de uma vez.
+
+A etapa atual é definir o cliente ideal, entender suas dores reais, delimitar um primeiro módulo útil e validar se o produto resolve um problema que merece investimento. **É uma ideia em validação**, ainda sem MVP ou funcionalidades publicadas.
+
+#### 🧪 Laboratório público
+
+Exercícios e experimentos que documentam a evolução do meu código: [front-end](https://github.com/Goliver7/Front-end) e [estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados).
+
+---
+
+### ⚡ Tecnologias e aprendizado
 
 **Uso e pratico**
 
@@ -43,27 +70,20 @@ Minha iniciativa de criação digital e desenvolvimento de aplicações, de land
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Aprendendo e explorando**
+**Minha trilha atual**
 
-`ABAP`  →  `APIs`  →  `UX/UI & acessibilidade`  →  `redes & servidores`  →  `segurança`
+`ABAP (início)` → `SQL e APIs` → `UX/UI e acessibilidade` → `redes e servidores` → `segurança`
 
 <details>
-<summary>Mais sobre a minha direção técnica</summary>
+<summary>Mais sobre a minha atuação</summary>
 <br />
-Atuo na interseção entre sistemas empresariais e desenvolvimento. Em projetos pessoais, experimento redes, câmeras IP e automação. Gosto da clareza e do cuidado visual das interfaces do ecossistema Apple.
+Estudo Engenharia de Software e tenho experiência com suporte SAP, acessos, autorizações, análise de problemas e documentação. Em projetos pessoais, exploro desenvolvimento, redes, câmeras IP e automação. Quero aprofundar a união entre produto, experiência de uso e infraestrutura.
 </details>
 
 ---
 
-### 🤝 Meus parceiros de criação
+### 💬 Sobre mim
 
-<div align="center">
-<img src="./assets/ai-friends.svg?v=2" alt="Símbolos de Claude e ChatGPT em um painel com detalhes animados" width="100%" />
-<sub>Ferramentas que uso para pensar, pesquisar e construir. Claude e ChatGPT são marcas de seus respectivos proprietários.</sub>
-</div>
+Sou curioso sobre como sistemas funcionam por dentro e como as pessoas os percebem por fora. Por isso me interessam tanto uma boa interface quanto a segurança e a estrutura que sustentam a experiência. Este perfil é um registro dos projetos que estou construindo e do que aprendo no caminho.
 
----
-
-<div align="center">
-<strong>BUILD · LEARN · REFINE</strong>
-</div>
+<div align="center"><sub>CONSTRUIR · APRENDER · REFINAR</sub></div>
