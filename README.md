@@ -43,7 +43,7 @@ Estudo **Engenharia de Software**. Minha trajetória inclui **quatro anos no Gru
 
 Construo projetos próprios que conectam software, infraestrutura e experiência de uso. Gosto da clareza e dos detalhes das interfaces Apple, especialmente quando aplicados a produtos de tema escuro.
 
-**Meus melhores amigos:** <img src="https://claude.ai/images/clawd/core/Clawd-Waving.gif" width="90" alt="Clawd, personagem do Claude" />&nbsp;&nbsp;<img src="./assets/duck-waddle.svg" width="36" alt="Patinho amarelo caminhando" />&nbsp;&nbsp;<img src="./assets/chatgpt-symbol.svg" width="32" alt="Símbolo do ChatGPT" />
+**Meus melhores amigos:** <img src="./assets/clawd-cropped.gif" width="40" alt="Clawd, personagem do Claude" />&nbsp;&nbsp;<img src="./assets/duck-waddle.svg" width="36" alt="Patinho amarelo caminhando" />&nbsp;&nbsp;<img src="./assets/chatgpt-symbol.svg" width="32" alt="Símbolo do ChatGPT" />
 
 <sub>Clawd e ChatGPT são marcas de seus proprietários. Uso as ferramentas em projetos pessoais; não tenho afiliação com Anthropic ou OpenAI.</sub>
 
