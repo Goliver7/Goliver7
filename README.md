@@ -7,6 +7,38 @@
 <a href="#-dokkaebi"><img alt="DOKKAEBI" src="https://img.shields.io/badge/DOKKAEBI-2563EB?style=for-the-badge" /></a>
 <a href="#-seven7motion"><img alt="SEVEN7MOTION" src="https://img.shields.io/badge/SEVEN7MOTION-7C3AED?style=for-the-badge" /></a>
 
+</div>
+
+## ⚡ Tecnologias e linguagens
+
+**Sistemas e dados**
+
+![SAP](https://img.shields.io/badge/SAP-0B5CAD?style=flat-square&logo=sap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+
+**Código e interfaces**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-292C33?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Aprofundando agora:** `ABAP (início)` · `APIs` · `UX/UI e acessibilidade` · `redes e servidores` · `segurança`
+
+<br />
+
+## 👤 Sobre mim
+
+Estudo **Engenharia de Software**. Minha trajetória inclui **quatro anos no Grupo Abrascort**, onde comecei na área administrativa e migrei para TI. Tenho **cerca de dois anos de atuação em tecnologia**, com foco em suporte SAP, acessos, análise de problemas e documentação. Fora do trabalho, desenvolvo projetos pessoais em software, automação, infraestrutura e criação digital.
+
+<br />
+
+<div align="center">
+
 **Engenharia de Software · suporte SAP · produtos digitais**
 
 Construo projetos próprios que conectam software, infraestrutura e experiência de uso. Gosto da clareza e dos detalhes das interfaces Apple, especialmente quando aplicados a produtos de tema escuro.
@@ -50,34 +82,6 @@ Na experiência planejada, o painel reúne câmeras, sensores e alertas. O **IRO
 O número **7** orienta a identidade: um símbolo que pode lembrar enquadramento, lente e movimento. Quero que cada entrega tenha propósito, ritmo, clareza e uma experiência coerente — da primeira imagem de um vídeo à última tela de uma aplicação.
 
 > **Agora:** serviços criativos e estrutura do portfólio estão em desenvolvimento. As aplicações e produtos de software são uma direção de expansão, não lançamentos já concluídos.
-
-<br />
-
-## ⚡ Tecnologias e linguagens
-
-**Sistemas e dados**
-
-![SAP](https://img.shields.io/badge/SAP-0B5CAD?style=flat-square&logo=sap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
-
-**Código e interfaces**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-292C33?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Aprofundando agora:** `ABAP (início)` · `APIs` · `UX/UI e acessibilidade` · `redes e servidores` · `segurança`
-
-<br />
-
-## 👤 Sobre mim
-
-Estudo **Engenharia de Software**. Minha trajetória inclui **quatro anos no Grupo Abrascort**, onde comecei na área administrativa e migrei para TI. Tenho **cerca de dois anos de atuação em tecnologia**, com foco em suporte SAP, acessos, análise de problemas e documentação. Fora do trabalho, desenvolvo projetos pessoais em software, automação, infraestrutura e criação digital.
 
 <br />
 
