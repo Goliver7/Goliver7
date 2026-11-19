@@ -9,7 +9,7 @@
 
 **Engenharia de Software · suporte SAP · produtos digitais**
 
-Construo projetos que aproximam boas interfaces, infraestrutura e problemas reais. Gosto do cuidado das interfaces Apple com hierarquia, respiro e detalhes — e exploro essa mesma atenção em experiências de tema escuro.
+Construo projetos próprios que conectam software, infraestrutura e experiência de uso. Gosto da clareza e dos detalhes das interfaces Apple, especialmente quando aplicados a produtos de tema escuro.
 
 **Meus melhores amigos:** <img src="https://claude.ai/images/clawd/core/Clawd-Waving.gif" width="64" alt="Clawd, personagem do Claude" /> <img src="./assets/chatgpt-symbol.svg" width="32" alt="Símbolo do ChatGPT" />
 
@@ -53,27 +53,31 @@ O número **7** orienta a identidade: um símbolo que pode lembrar enquadramento
 
 <br />
 
-## ⚡ Tecnologias e aprendizado
+## ⚡ Tecnologias e linguagens
 
-**Uso e pratico**
+**Sistemas e dados**
 
 ![SAP](https://img.shields.io/badge/SAP-0B5CAD?style=flat-square&logo=sap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+
+**Código e interfaces**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-292C33?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**No meu radar**
+**Aprofundando agora:** `ABAP (início)` · `APIs` · `UX/UI e acessibilidade` · `redes e servidores` · `segurança`
 
-`ABAP (início)` → `SQL e APIs` → `UX/UI e acessibilidade` → `redes e servidores` → `segurança`
-
-<details>
-<summary>Minha atuação e estudos</summary>
 <br />
-Estudo Engenharia de Software e atuo com suporte SAP, acessos, autorizações, análise de problemas e documentação. Em projetos pessoais, experimento desenvolvimento, redes, câmeras IP e automação. Meu objetivo é aproximar produto, experiência de uso e infraestrutura.
-</details>
+
+## 👤 Sobre mim
+
+Estudo **Engenharia de Software**. Minha trajetória inclui **quatro anos no Grupo Abrascort**, onde comecei na área administrativa e migrei para TI. Tenho **cerca de dois anos de atuação em tecnologia**, com foco em suporte SAP, acessos, análise de problemas e documentação. Fora do trabalho, desenvolvo projetos pessoais em software, automação, infraestrutura e criação digital.
 
 <br />
 
