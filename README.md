@@ -43,7 +43,7 @@ Estudo **Engenharia de Software**. Minha trajetória inclui **quatro anos no Gru
 
 Construo projetos próprios que conectam software, infraestrutura e experiência de uso. Gosto da clareza e dos detalhes das interfaces Apple, especialmente quando aplicados a produtos de tema escuro.
 
-**Meus melhores amigos:** <img src="https://claude.ai/images/clawd/core/Clawd-Waving.gif" width="64" alt="Clawd, personagem do Claude" /> <img src="./assets/chatgpt-symbol.svg" width="32" alt="Símbolo do ChatGPT" />
+**Meus melhores amigos:** <img src="https://claude.ai/images/clawd/core/Clawd-Waving.gif" width="64" alt="Clawd, personagem do Claude" /> <img src="./assets/duck-waddle.svg" width="36" alt="Patinho amarelo caminhando" /> <img src="./assets/chatgpt-symbol.svg" width="32" alt="Símbolo do ChatGPT" />
 
 <sub>Clawd e ChatGPT são marcas de seus proprietários. Uso as ferramentas em projetos pessoais; não tenho afiliação com Anthropic ou OpenAI.</sub>
 
@@ -82,6 +82,16 @@ Na experiência planejada, o painel reúne câmeras, sensores e alertas. O **IRO
 O número **7** orienta a identidade: um símbolo que pode lembrar enquadramento, lente e movimento. Quero que cada entrega tenha propósito, ritmo, clareza e uma experiência coerente — da primeira imagem de um vídeo à última tela de uma aplicação.
 
 > **Agora:** serviços criativos e estrutura do portfólio estão em desenvolvimento. As aplicações e produtos de software são uma direção de expansão, não lançamentos já concluídos.
+
+<br />
+
+## 🌃 Cidade de contribuições
+
+<div align="center">
+  <img src="./assets/contribution-city.svg" width="100%" alt="Cidade animada baseada nas 56 contribuições exibidas no GitHub em 19 de novembro de 2026" />
+</div>
+
+<sub>Registro visual de 19/11/2026 · 56 contribuições no último ano. A imagem representa os dados desse dia.</sub>
 
 <br />
 
