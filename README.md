@@ -1,52 +1,69 @@
 <div align="center">
 
-# Guilherme Oliveira
+<img src="./assets/profile-hero.svg" alt="Guilherme Oliveira — Software Engineering, SAP e UX/UI" width="100%" />
 
-### Software Engineering · SAP · UX/UI · Infra & Security
+<br />
 
-Construindo experiências digitais com atenção a sistemas, pessoas e detalhes.
+<a href="#-o-que-estou-construindo"><img alt="Projetos" src="https://img.shields.io/badge/PROJETOS-0e7490?style=for-the-badge" /></a>
+<a href="#-stack--interesses"><img alt="Stack" src="https://img.shields.io/badge/STACK-1d4ed8?style=for-the-badge" /></a>
+<a href="#-meus-parceiros-de-criação"><img alt="IA" src="https://img.shields.io/badge/IA-6d28d9?style=for-the-badge" /></a>
 
-[Projetos](https://github.com/Goliver7?tab=repositories) · [Sobre mim](#sobre-mim) · [Em evolução](#em-evolução)
+</div>
 
+### 👋 Olá, eu sou o Guilherme
+
+Estudo **Engenharia de Software** e atuo com **suporte SAP**. Gosto de transformar problemas de negócio em sistemas claros, funcionais e agradáveis de usar. Estou explorando desenvolvimento, UX/UI, infraestrutura, redes e segurança.
+
+> **Meu norte:** software útil, interfaces cuidadosas e sistemas bem conectados.
+
+---
+
+### 🧩 O que estou construindo
+
+**🛡️ DOKKAEBI / NOEL HO HOME** `em desenvolvimento`  
+Ecossistema pessoal de automação e monitoramento residencial: painel, câmeras, sensores e protocolos de segurança. A implementação ainda não está pública.
+
+**🎬 SEVEN7MOTION** `em estruturação`  
+Minha iniciativa de criação digital e desenvolvimento de aplicações, de landing pages a produtos próprios.
+
+**🧪 Laboratório de código** `publicado`  
+[Front-end](https://github.com/Goliver7/Front-end) · [Estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados)
+
+---
+
+### ⚡ Stack & interesses
+
+**Uso e pratico**
+
+![SAP](https://img.shields.io/badge/SAP-0B5CAD?style=flat-square&logo=sap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Aprendendo e explorando**
+
+`ABAP`  →  `APIs`  →  `UX/UI & acessibilidade`  →  `redes & servidores`  →  `segurança`
+
+<details>
+<summary>Mais sobre a minha direção técnica</summary>
+<br />
+Atuo na interseção entre sistemas empresariais e desenvolvimento. Em projetos pessoais, experimento redes, câmeras IP e automação. Gosto da clareza e do cuidado visual das interfaces do ecossistema Apple.
+</details>
+
+---
+
+### 🤝 Meus parceiros de criação
+
+<div align="center">
+<img src="./assets/ai-friends.svg" alt="Símbolos de Claude e ChatGPT em um painel com detalhes animados" width="100%" />
+<sub>Ferramentas que uso para pensar, pesquisar e construir. Claude e ChatGPT são marcas de seus respectivos proprietários.</sub>
 </div>
 
 ---
 
-### Sobre mim
-
-Estudo Engenharia de Software e gosto de transformar ideias em produtos digitais. Minha atuação passa por sistemas empresariais e suporte SAP; meus projetos pessoais exploram interfaces, automação e infraestrutura.
-
-Tenho especial interesse em UX/UI inspirado pelo cuidado visual do ecossistema Apple, redes e segurança da informação.
-
-### Ferramentas e interesses
-
-| Área | Hoje | Aprofundando |
-| :--- | :--- | :--- |
-| **Sistemas** | SAP, SQL | ABAP e integrações |
-| **Desenvolvimento** | Python, HTML, CSS, JavaScript, Git | Aplicações e APIs |
-| **Interfaces** | Prototipação e design de interfaces | UX/UI, acessibilidade, design systems |
-| **Infraestrutura** | Redes, câmeras IP e automação | Servidores e segurança |
-
-### Projetos
-
-**DOKKAEBI / NOEL HO HOME** — conceito e desenvolvimento inicial de um ecossistema de automação e monitoramento residencial. A implementação ainda não está publicada.
-
-**SEVEN7MOTION** — iniciativa de criação digital e desenvolvimento de aplicações. Portfólio em estruturação.
-
-**Estudos no GitHub** — [front-end](https://github.com/Goliver7/Front-end) e [estruturas de dados](https://github.com/Goliver7/atv-estrutura-de-dados).
-
-### Em evolução
-
-ABAP → SQL → UX/UI → redes e servidores → segurança
-
-### Melhores amigos 🤝
-
-<img src="./assets/ai-friends.svg" alt="Mascotes animados de Claude e ChatGPT lado a lado" width="620" />
-
 <div align="center">
-
----
-
-<sub>Aprendendo, construindo e refinando.</sub>
-
+<strong>BUILD · LEARN · REFINE</strong>
 </div>
