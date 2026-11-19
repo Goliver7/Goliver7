@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Guilherme Oliveira — Software Engineering, SAP e UX/UI" width="100%" />
+<img src="./assets/profile-hero.svg?v=2" alt="Guilherme Oliveira — Software Engineering, SAP e UX/UI" width="100%" />
 
 <br />
 
@@ -58,7 +58,7 @@ Atuo na interseção entre sistemas empresariais e desenvolvimento. Em projetos 
 ### 🤝 Meus parceiros de criação
 
 <div align="center">
-<img src="./assets/ai-friends.svg" alt="Símbolos de Claude e ChatGPT em um painel com detalhes animados" width="100%" />
+<img src="./assets/ai-friends.svg?v=2" alt="Símbolos de Claude e ChatGPT em um painel com detalhes animados" width="100%" />
 <sub>Ferramentas que uso para pensar, pesquisar e construir. Claude e ChatGPT são marcas de seus respectivos proprietários.</sub>
 </div>
 
